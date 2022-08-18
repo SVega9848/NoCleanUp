@@ -1,0 +1,6 @@
+# Plugin created by SVega - Check my YouTube channel! https://www.youtube.com/channel/UCOBOk07J93sqTlfjRzjThyQ
+# Use & to set color format
+
+prefix: "&7[&c!&7]"
+cooldownremaining: "{PREFIX} > &cYou have {TIME} seconds of NoClean!"
+alreadynoclean: "{PREFIX} > {PLAYER} is on cooldown! Wait to attack!"

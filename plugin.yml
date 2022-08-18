@@ -1,0 +1,6 @@
+name: NoCleanUp
+main: SVega9848\NoCleanUp\Core\Main
+version: 0.1.0
+api: [3.2.0, 4.0.0]
+author: SVega
+description: Prevent yourself of being cleaned by someone after killing a player!
